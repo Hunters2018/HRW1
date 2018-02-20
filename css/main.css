@@ -1,0 +1,40 @@
+body {
+
+background-color:#66ccff;
+text-align: center;
+font-family: Helvetica;
+font-weight: 100;		
+}
+
+h1 {
+	color:#fff;
+}
+
+h2 {
+	color:#4d4d4d;
+}
+
+.sub_heading {
+	color:#fff;
+}
+
+
+a {
+	color:#3366ff;
+}
+
+#face {
+	height: 25%;
+    width: 25%;
+    border-style:double;
+    border-width:5px;
+    border-color:#4d4d4d;
+}
+
+#sfetv {
+	height: 25%;
+    width: 25%;
+    border-style:double;
+    border-width:5px;
+    border-color:#4d4d4d;
+}
